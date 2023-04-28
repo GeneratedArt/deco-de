@@ -1,7 +1,7 @@
 [
   {
     "title": "Public space",
-    "description": "Generative art in public spaces enhances urban landscapes with dynamic, interactive experiences, fostering community and promoting sustainability. This fusion of technology and artistic expression enriches city culture and connects diverse inhabitants.",
+    "description": "Generative Kunst im öffentlichen Raum bereichert städtische Landschaften mit dynamischen, interaktiven Erlebnissen, fördert Gemeinschaft und unterstützt Nachhaltigkeit. Diese Verschmelzung von Technologie und künstlerischem Ausdruck bereichert die Stadtkultur und verbindet vielfältige Bewohner.",
     "image": {
       "url": "images/illustrations/public-space.png",
       "width": 80,
@@ -10,7 +10,7 @@
   },
   {
     "title": "Private space",
-    "description": "Integrating natural aesthetics into private spaces by creating soothing and inspiring surroundings. This combination fosters a sense of balance, encouraging productivity in workspaces and offering peaceful retreats in residential areas.",
+    "description": "Die Integration natürlicher Ästhetik in private Räume schafft beruhigende und inspirierende Umgebungen. Diese Kombination fördert ein Gefühl der Balance, steigert die Produktivität in Arbeitsräumen und bietet friedliche Rückzugsorte in Wohngebieten.",
     "image": {
       "url": "images/illustrations/art-installation.png",
       "width": 80,
@@ -19,7 +19,7 @@
   },
   {
     "title": "Events",
-    "description": "Incorporating interactive and dynamic decorative elements enhances the overall experience by captivating attendees and stimulating engagement. These visually striking components create immersive atmospheres, forging memorable impressions and fostering connections among participants.",
+    "description": "Die Integration von interaktiven und dynamischen Dekorationselementen verbessert das Gesamterlebnis, indem es die Aufmerksamkeit der Teilnehmer auf sich zieht und die Interaktion fördert. Diese optisch beeindruckenden Komponenten schaffen immersive Atmosphären, hinterlassen bleibende Eindrücke und fördern die Verbindungen zwischen den Teilnehmern.",
     "image": {
       "url": "images/illustrations/events.png",
       "width": 80,
