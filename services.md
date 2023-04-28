@@ -1,12 +1,12 @@
 ---
-title: Services
-layout: services
-description: Services
+title: Dienstleistungen
+layout: Dienstleistungen
+description: Dienstleistungen
 intro_image: "images/illustrations/reception.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Revolutionizing decorative art through computation
+# Revolutionierung der dekorativen Kunst durch Berechnung
 
-Our interior and exterior decoration services include innovative generative art curation, digital displays, computational services, rentals, high-quality printing, and seamless installations. We also offer unique flooring, murals, and window art designs, alongside tokenization for art ownership and trade.
+Unsere Innen- und Außendekorationsservices umfassen innovative generative Kunst-Kuration, digitale Anzeigen, Rechendienste, Vermietungen, hochwertigen Druck und nahtlose Installationen. Darüber hinaus bieten wir einzigartige Bodenbeläge, Wandbilder und Fensterkunst-Designs sowie Tokenisierung für Kunstbesitz und Handel an.
