@@ -4,43 +4,43 @@ date: 2019-02-28T15:15:34+10:00
 weight: 3
 ---
 
-We offer a range of services for printing 2D and 3D generative art. With our advanced printing technology and expertise, we can produce high-quality prints of your favorite generative art pieces, whether you're looking for a stunning 2D print for your home or office, or a unique 3D sculpture for a special event or exhibition.
+Wir bieten 2D- und 3D-generative Kunst Druckdienstleistungen an und erstellen hochwertige Drucke für Zuhause, Büro oder besondere Anlässe mit fortschrittlicher Technologie und Fachkenntnissen.
 
 ![Window print](/images/illustrations/window-print.png)
 
-Our team of experienced professionals works closely with each client to ensure that their vision is realized in the final product. Contact us today to learn more about our printing services and how we can help bring your generative art to life.
+Unser Team erfahrener Fachleute arbeitet eng mit jedem Kunden zusammen, um sicherzustellen, dass ihre Vision im Endprodukt verwirklicht wird. Kontaktieren Sie uns heute, um mehr über unsere Druckdienstleistungen zu erfahren und wie wir Ihnen helfen können, Ihre generative Kunst zum Leben zu erwecken.
 
-# Introduction
+# Einführung
 
-Printing XY plotters and 3D printers are popular techniques used to create generative art for exhibitions. The XY plotters can print on a wide range of surfaces, such as paper, cardboard, vinyl, fabric, leather, wood, metal, and plastics. This allows for unique and captivating pieces to be created for display. 3D printers can be used to create sculptures or other 3D pieces using various materials, such as PETG, PLA, TPU, and wood. These techniques provide endless possibilities for creating interactive and immersive experiences for art enthusiasts and audiences.
+Druckende XY-Plotter und 3D-Drucker sind beliebte Techniken, um generative Kunst für Ausstellungen zu erstellen. Die XY-Plotter können auf einer Vielzahl von Oberflächen drucken, wie Papier, Pappe, Vinyl, Stoff, Leder, Holz, Metall und Kunststoffe. Dies ermöglicht die Schaffung einzigartiger und fesselnder Stücke zur Präsentation. 3D-Drucker können für die Herstellung von Skulpturen oder anderen 3D-Objekten aus verschiedenen Materialien wie PETG, PLA, TPU und Holz verwendet werden. Diese Techniken bieten unendliche Möglichkeiten für die Schaffung interaktiver und immersiver Erlebnisse für Kunstbegeisterte und Publikum.
 
-## XY plots
+## XY-Plots
 
-XY plots using plotters are a popular technique for creating generative art, where machines use a pen or other tool to draw or paint on any surface based on digital input. We offer a unique service of high-quality printing for generative art created using XY plotting, using advanced robotic arms to print on any surface and with a range of tools including pens, paint, and scratching tools in full color. Currently, we provide A3 format prints of the highest quality thanks to our technical expertise and attention to detail. Our printing services are perfect for artists looking to bring their XY plots to life or art enthusiasts looking to add a unique and captivating piece to their collection.
+XY-Plots mit Plottern sind eine beliebte Technik für die Erstellung generativer Kunst, bei der Maschinen einen Stift oder ein anderes Werkzeug verwenden, um auf jeder Oberfläche basierend auf digitalen Eingaben zu zeichnen oder zu malen. Wir bieten einen einzigartigen Service für hochwertigen Druck für generative Kunst, die mit XY-Plotting erstellt wurde, bei dem fortschrittliche Roboterarme zum Drucken auf jeder Oberfläche und mit einer Reihe von Werkzeugen wie Stiften, Farbe und Kratzwerkzeugen in Vollfarbe verwendet werden. Derzeit bieten wir A3-Formatdrucke in höchster Qualität an, dank unserer technischen Expertise und Liebe zum Detail. Unsere Druckdienstleistungen sind perfekt für Künstler, die ihre XY-Plots zum Leben erwecken möchten, oder Kunstbegeisterte, die eine einzigartige und fesselnde Arbeit ihrer Sammlung hinzufügen möchten.
 
-### File formats
+### Dateiformate
 
-All image file formats are accepted.
+Alle Bild-Dateiformate werden akzeptiert.
 
-### Surfaces
+### Oberflächen
 
-XY plotters can print on a wide range of surfaces, including paper, cardboard, vinyl, fabric, leather, wood, metal, and plastics. The type of surface used will depend on the specific application and the requirements of the artwork being created. Some surfaces may require special preparation or treatment before printing to ensure optimal adhesion and print quality, while others may be incompatible with certain types of ink or printing methods. It's important to carefully consider the surface and printing materials when designing and creating generative art using an XY plotter.
+XY-Plotter können auf einer Vielzahl von Oberflächen drucken, einschließlich Papier, Pappe, Vinyl, Stoff, Leder, Holz, Metall und Kunststoffe. Die Art der verwendeten Oberfläche hängt von der spezifischen Anwendung und den Anforderungen des zu erstellenden Kunstwerks ab. Einige Oberflächen erfordern möglicherweise eine spezielle Vorbereitung oder Behandlung vor dem Drucken, um eine optimale Haftung und Druckqualität zu gewährleisten, während andere mit bestimmten Tintenarten oder Druckverfahren möglicherweise nicht kompatibel sind. Bei der Gestaltung und Erstellung generativer Kunst mit einem XY-Plotter ist es wichtig, die Oberfläche und die Druckmaterialien sorgfältig zu berücksichtigen.
 
-## 3d sculptures
+## 3D-Skulpturen
 
-3D generative sculptures can be created using algorithmic design techniques and then fabricated using 3D printing technology. This allows for the creation of intricate and complex structures that would be difficult or impossible to create using traditional sculpting methods. These sculptures can be displayed as standalone pieces of art or incorporated into larger installations for generative art exhibitions. Additionally, 3D printing allows for the easy replication of sculptures, making it possible to create multiple identical pieces for a wider distribution or sale.
+3D-generative Skulpturen können mit algorithmischen Gestaltungstechniken erstellt und anschließend mit 3D-Drucktechnologie hergestellt werden. Dies ermöglicht die Schaffung komplizierter und komplexer Strukturen, die mit traditionellen Bildhauermethoden schwer oder unmöglich zu erstellen wären. Diese Skulpturen können als eigenständige Kunstwerke ausgestellt oder in größere Installationen für generative Kunstausstellungen integriert werden. Darüber hinaus ermöglicht der 3D-Druck die einfache Vervielfältigung von Skulpturen, sodass es möglich ist, mehrere identische Stücke für eine breitere Verbreitung oder den Verkauf zu erstellen.
 
 ![3D generative sculptures](/images/illustrations/sculptures.png)
 
-### File formats
+### Dateiformate
 
-OBJ (Wavefront Object),	FBX,	DAE (COLLADA).
+OBJ (Wavefront Object), FBX, DAE (COLLADA).
 
-### Materials
+### Materialien
 
-PETG, PLA, TPU, Wood
+PETG, PLA, TPU, Holz
 
-# Articles
+# Artikel
 
 [Reducing Waste and Excess Inventory through 3D Printing](https://medium.com/@guillaumelauzier/reducing-waste-and-excess-inventory-through-3d-printing-5609fd039dd6)
 
