@@ -1,6 +1,6 @@
 [
   {
-    "title": "Public space",
+    "title": "Öffentlicher Raum",
     "description": "Generative Kunst im öffentlichen Raum bereichert städtische Landschaften mit dynamischen, interaktiven Erlebnissen, fördert Gemeinschaft und unterstützt Nachhaltigkeit. Diese Verschmelzung von Technologie und künstlerischem Ausdruck bereichert die Stadtkultur und verbindet vielfältige Bewohner.",
     "image": {
       "url": "images/illustrations/public-space.png",
@@ -9,7 +9,7 @@
     }
   },
   {
-    "title": "Private space",
+    "title": "Privater Raum",
     "description": "Die Integration natürlicher Ästhetik in private Räume schafft beruhigende und inspirierende Umgebungen. Diese Kombination fördert ein Gefühl der Balance, steigert die Produktivität in Arbeitsräumen und bietet friedliche Rückzugsorte in Wohngebieten.",
     "image": {
       "url": "images/illustrations/art-installation.png",
@@ -18,7 +18,7 @@
     }
   },
   {
-    "title": "Events",
+    "title": "Veranstaltungen",
     "description": "Die Integration von interaktiven und dynamischen Dekorationselementen verbessert das Gesamterlebnis, indem es die Aufmerksamkeit der Teilnehmer auf sich zieht und die Interaktion fördert. Diese optisch beeindruckenden Komponenten schaffen immersive Atmosphären, hinterlassen bleibende Eindrücke und fördern die Verbindungen zwischen den Teilnehmern.",
     "image": {
       "url": "images/illustrations/events.png",
