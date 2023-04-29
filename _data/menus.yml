@@ -9,7 +9,7 @@ main:
     url: "/dienstleistungen/"
     weight: 3
   - name: "Katalog"
-    url: "/Katalog/"
+    url: "/katalog/"
     weight: 4
   - name: "Kontakt"
     url: "/kontakt/"
@@ -31,19 +31,19 @@ main:
     weight: 10
 
 footer:
-  - name: "Main site"
+  - name: "Hauptseite"
     url: "https://generatedart.com"
     weight: 1
   - name: "Shop"
     url: "https://shop.generatedart.com"
     weight: 2
-  - name: "Exposition"
-    url: "https://expo.generatedart.com"
+  - name: "Ausstellung"
+    url: "https://expo.de.generatedart.com"
     weight: 3
-  - name: "Decoration"
-    url: "https://deco.generatedart.com"
+  - name: "Dekoration"
+    url: "https://deco.de.degeneratedart.com"
     weight: 4
-  - name: "Research"
+  - name: "Forschung"
     url: "https://medium.com/generatedart"
     weight: 5
   - name: "Apply"
