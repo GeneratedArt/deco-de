@@ -1,7 +1,7 @@
 ---
 title: Katalog
 layout: teams
-description: Catalog
+description: Katalog
 permalink: "/catalog/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
