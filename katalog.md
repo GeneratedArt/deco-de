@@ -2,7 +2,7 @@
 title: Katalog
 layout: teams
 description: Katalog
-permalink: "/catalog/"
+permalink: "/katalog/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
