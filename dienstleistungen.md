@@ -1,6 +1,6 @@
 ---
 title: Dienstleistungen
-layout: Dienstleistungen
+layout: services
 description: Dienstleistungen
 intro_image: "images/illustrations/reception.png"
 intro_image_absolute: true
