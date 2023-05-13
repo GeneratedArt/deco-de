@@ -1,7 +1,7 @@
 ---
 title: Über
 layout: page
-description: About
+description: Über
 bodyClass: page-about
 ---
 
